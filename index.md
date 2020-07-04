@@ -112,7 +112,8 @@ July 4, 2020
 ## ARTICLE 8 
 ### SECTION 8.1
 - Seal
-	- The society seal shall be kept by the Treasurer, to be used as required. - 2 - Constitution and Bylaws of [NAME OF SOCIETY] 
+	- The society seal shall be kept by the Treasurer, to be used as required.
+
 ## ARTICLE 9 
 ### SECTION 9.1
 - Signing Officials 
@@ -121,14 +122,17 @@ July 4, 2020
 		- B. Withdrawal of any other society funds from repository shall require two (2) signatures: Treasurer and the President or Vice-President. 
 		- C. Any document committing the society to, a plan of action requires two (2) signatures, a member of the society with temporary authoriza-tion of the Board of Directors and the President or Vice-President. 
 		- D. Signing society members shall not be related by marriage, blood or cohabitation. 
+
 ## ARTICLE 10
 ### SECTION 10.1
 -  Affiliations 
 	- The [SOCIETY INITIALS] may enter into any affiliation with approval of the general membership. 
+
 ## ARTICLE 11 
 ### SECTION 11.1
 - Amendments 
 	- Any proposed amendments to this constitution must be submitted in writing to any elected officer. Such proposed amendments must be signed by five (5) active members of the society before being submitted. They will be referred to the Board of Directors for investigation and recommendation. Proposed amendments will then be published within sixty (60) days and will be read and voted upon at the next regular meeting after publication. They shall become a part of this Constitution only if approved by two thirds (2/3) majority of the members present and voting at said meeting. 
+
 ## ARTICLE 12 
 ### SECTION 12.1
 - Parliamentary Authority 
