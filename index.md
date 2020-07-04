@@ -112,7 +112,8 @@ July 4, 2020
 ## ARTICLE 8 
 ### SECTION 8.1
 - Seal
-	- The society seal shall be kept by the Treasurer, to be used as required. - 2 - Constitution and Bylaws of [NAME OF SOCIETY] 
+	- The society seal shall be kept by the Treasurer, to be used as required. - 2 - Constitution and Bylaws of [NAME OF SOCIETY]
+	-  
 ## ARTICLE 9 
 ### SECTION 9.1
 - Signing Officials 
