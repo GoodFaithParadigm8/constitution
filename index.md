@@ -51,7 +51,7 @@ July 4, 2020
 
 ### SECTION 1.2 
 - Objective 
-	-  Good Faith Paradigm is a not-for-profit educational organization dedicated to studying the symbiotic relationship between religion, science, the evolution of the universe and the homosapian. 
+	-  Good Faith Paradigm is a not-for-profit educational organization dedicated to studying the symbiotic relationship between religion, science, the evolution of the universe and the humanity. 
 
 ### SECTION 1.3 
 - Affiliations
