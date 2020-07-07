@@ -51,7 +51,7 @@ July 4, 2020
 
 ### SECTION 1.2 
 - Objective 
-	-  Good Faith Paradigm is a not-for-profit educational organization dedicated to the advancement and/or dissemination of information relating to all aspects of the biology of [TROPICAL FISH/MARINE FISH/POND/PLANTS], with particular reference to their maintenance and [BREEDING/PROPAGATION] in captivity. 
+	-  Good Faith Paradigm is a not-for-profit educational organization dedicated to studying the symbiotic relationship between religion, science, the evolution of the universe and the homosapian. 
 
 ### SECTION 1.3 
 - Affiliations
@@ -59,16 +59,16 @@ July 4, 2020
 
 ### SECTION 1.4 
 - Charter 
-	- The society shall maintain a charter in the state of [INSERT STATE] as a not-for-profit organization. 
+	- The society shall maintain a charter in the state of Texas as a not-for-profit organization. 
 
 ## Article 2 
 ### SECTION 2.1 
 - Membership 
-	- All persons interested in aquatic life shall be eligible for membership subject to the approval of the Board of Directors. Applicants must be willing to abide by the Constitution and By-Laws, and must maintain an interest in the activities of the [SOCIETY INITIALS]. 
+	- All persons interested in  life shall be eligible for membership subject to the approval of the Board of Directors. Applicants must be willing to abide by the Constitution and By-Laws, and must maintain an interest in the activities of the GFP. 
 
 ### SECTION 2.2 
 - Officers 
-	- There shall be the following officers elected annually: President, Vice-President, Treasurer, Recording Secretary, Corresponding Secretary, and Sergeant-at-arms.
+	- There shall be the following officers elected annually: President, Vice-President, Treasurer, Secretary.
 	 
 ### SECTION 2.3 
 - Qualifications of Officers 
@@ -76,7 +76,7 @@ July 4, 2020
 
 ### SECTION 2.4 
 - Election of Officers 
-	- Candidates for each office shall be presented by the nominating committee at the regular meeting in May. Nominations from the floor will be taken before voting at the regular meeting in June. Candidates must have given their permission to run, verbally to three (3) members or in writing. Officers shall be elected by ballot and installed at the regular July meeting. - 1 - Constitution and Bylaws of [NAME OF SOCIETY]
+	- Candidates for each office shall be presented by the nominating committee at the regular meeting in December. Nominations from the floor will be taken before voting at the regular meeting in June. Candidates must have given their permission to run, verbally to three (3) members or in writing. Officers shall be elected by ballot and installed at the regular July meeting. - 1 - Constitution and Bylaws of Good Faith Paradigm.
  
 ## ARTICLE 3 
 ### SECTION 3.1  
@@ -92,22 +92,22 @@ July 4, 2020
 	- Each member of the Board of Directors will keep an accurate accounting of duties and records of yearly activities. These records will be forwarded to the incoming Board of Directors successor in an orderly fashion at the July Board of Directors meeting. It shall be the responsibility of the outgoing President and the incoming President to oversee these transmissions. 
 ### SECTION 4.2 
 - Assets
-	- An accurate inventory of all physical assets (except society funds) and their loca-tion will be kept in duplicate. One copy to be retained with the Treasurer records and one copy to be retained with the Recording Secretary records. This inventory will be reviewed at least once annually at the July Board of Directors meeting and verified. It shall be the duty of the current President to delegate the locations of these properties with the approval of the Board of Directors.
+	- An accurate inventory of all physical assets (except society funds) and their location will be kept in duplicate. One copy to be retained with the Treasurer records and one copy to be retained with the Secretary records. This inventory will be reviewed at least once annually at the July Board of Directors meeting and verified. It shall be the duty of the current President to delegate the locations of these properties with the approval of the Board of Directors.
 
 ## ARTICLE 5 
 ### SECTION 5.1
 - Meetings 
-	- The society shall hold regular meetings once a month at a time and place desig-nated by the Executive Board. The Executive Board shall meet at their discretion. The Board of Directors shall meet at least once a month at a time and place desig-nated by the Board of Directors. 
+	- The society shall hold regular meetings once a month at a time and place designated by the Executive Board. The Executive Board shall meet at their discretion. The Board of Directors shall meet at least once a month at a time and place designated by the Board of Directors. 
 
 ## ARTICLE 6 
 ### SECTION 6.1
 - Publication
-	- The [SOCIETY INITIALS] shall have the authority to publish a journal which shall be known as Cichlid Chatter. It shall be distributed to all society members, exchange clubs, and non-member donors. 
+	- The GFP shall have the authority to publish a journal which shall be known as Holy Faith. It shall be distributed to all society members, exchange clubs, and non-member donors. 
 
 ## ARTICLE 7 
 ### SECTION 7.1
 - Logo 
-	- The [SOCIETY INITIALS] shall have the authority to establish a club logo. 
+	- GFP shall have the authority to establish a club logo. 
 
 ## ARTICLE 8 
 ### SECTION 8.1
@@ -120,13 +120,13 @@ July 4, 2020
 	- The only society members authorized to use their signature for society business are as follows (except as noted elsewhere in the Constitution): 
 		- A. Checks drawn upon the funds of the society shall require the signature of the Treasurer and/or the President or the Vice-President. 
 		- B. Withdrawal of any other society funds from repository shall require two (2) signatures: Treasurer and the President or Vice-President. 
-		- C. Any document committing the society to, a plan of action requires two (2) signatures, a member of the society with temporary authoriza-tion of the Board of Directors and the President or Vice-President. 
+		- C. Any document committing the society to, a plan of action requires two (2) signatures, a member of the society with temporary authorization of the Board of Directors and the President or Vice-President. 
 		- D. Signing society members shall not be related by marriage, blood or cohabitation. 
 
 ## ARTICLE 10
 ### SECTION 10.1
 -  Affiliations 
-	- The [SOCIETY INITIALS] may enter into any affiliation with approval of the general membership. 
+	- The GFP may enter into any affiliation with approval of the general membership. 
 
 ## ARTICLE 11 
 ### SECTION 11.1
@@ -136,7 +136,7 @@ July 4, 2020
 ## ARTICLE 12 
 ### SECTION 12.1
 - Parliamentary Authority 
-	- All business of the society shall be conducted under Roberts Rules of Order (Revised). Protested business will not become binding until ruled upon by the Sergeant-at-arms. 
+	- All business of the society shall be conducted under Roberts Rules of Order (Revised). Protested business will not become binding until ruled upon by the Secretary. 
 	
 	
 > Written with ❤️ by GoodFaithParadigm
