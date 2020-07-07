@@ -82,6 +82,7 @@ July 4, 2020
 ### SECTION 3.1  
 - Executive Board 
 	- The Executive Board shall consist of the duly elected officers.
+
 ### SECTION 3.2
 - Board of Directors 
 	- The Board of Directors shall consist of the Executive Board, chairpersons of all standing committees and other appointed committee chairpersons and the last active Past President. 
@@ -90,6 +91,7 @@ July 4, 2020
 ### SECTION 4.1 
 - Responsibilities 
 	- Each member of the Board of Directors will keep an accurate accounting of duties and records of yearly activities. These records will be forwarded to the incoming Board of Directors successor in an orderly fashion at the July Board of Directors meeting. It shall be the responsibility of the outgoing President and the incoming President to oversee these transmissions. 
+
 ### SECTION 4.2 
 - Assets
 	- An accurate inventory of all physical assets (except society funds) and their location will be kept in duplicate. One copy to be retained with the Treasurer records and one copy to be retained with the Secretary records. This inventory will be reviewed at least once annually at the July Board of Directors meeting and verified. It shall be the duty of the current President to delegate the locations of these properties with the approval of the Board of Directors.
