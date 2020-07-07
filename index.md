@@ -81,8 +81,8 @@ July 4, 2020
 ## ARTICLE 3 
 ### SECTION 3.1  
 - Executive Board 
-	- The Executive Board shall consist of the duly elected officers. 
-### SECTION 3.2 
+	- The Executive Board shall consist of the duly elected officers.
+### SECTION 3.2
 - Board of Directors 
 	- The Board of Directors shall consist of the Executive Board, chairpersons of all standing committees and other appointed committee chairpersons and the last active Past President. 
 
