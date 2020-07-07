@@ -51,7 +51,9 @@ July 4, 2020
 
 ### SECTION 1.2 
 - Objective 
-	-  Good Faith Paradigm is a not-for-profit educational organization dedicated to studying the symbiotic relationship between religion, science, the evolution of the universe and the humanity. 
+	-  Good Faith Paradigm is organized exclusively for charitable, religious, educational, and scientific purposes, including, for such purposes, the making of distributions to organizations that qualify as exempt organizations under section 501(c)(3) of the Internal Revenue Code, or the corresponding section of any future federal tax code.
+
+
 
 ### SECTION 1.3 
 - Affiliations
